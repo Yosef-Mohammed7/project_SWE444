@@ -1,0 +1,30 @@
+
+body {
+	background: #eee ;
+  text-align: right;
+
+
+}
+img{
+	width: 50%;
+	height: 50%;
+	margin-bottom: 50px;
+	margin-left: 50px;
+	margin-right: 360px;
+}
+.wrapper {
+	margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.form-signin {
+  max-width: 380px;
+  padding: 15px 35px 45px;
+  margin: 0 auto;
+  background-color: #fff;
+  border: 20px solid rgba(2,1,0,0.1);
+}
+  .form-signin-heading,
+	.checkbox {
+	  margin-bottom: 40px;
+	}
